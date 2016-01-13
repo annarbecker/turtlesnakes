@@ -1,0 +1,34 @@
+
+.jumbotron {
+  /*display: none;*/
+  text-align: center;
+  border-radius: 50%;
+  margin-top: 300px;
+  background-image: url("../img/forest2.jpg");
+}
+
+.choices {
+  text-align: center;
+  margin-top: 300px;
+}
+
+/*.background-image {
+  background-image: url("http://p1.pichost.me/i/33/1561150.jpg");
+}*/
+
+#turtles {
+  display: none;
+}
+
+#snakes {
+  display: none;
+}
+
+#insects {
+  display: none;
+}
+
+.choices img {
+  padding: 15px;
+  border-radius: 25%;
+}
